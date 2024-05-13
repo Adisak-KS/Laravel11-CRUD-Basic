@@ -1,4 +1,4 @@
-# 📖 Lavarel 11 CRUD Basic
+# 📖 Laravel 11 CRUD Basic
 
 ###### ✍️แก้ไขเมื่อ : 13/05/2567
 ###### 👨‍💻ผู้จัดทำ : Adisak
