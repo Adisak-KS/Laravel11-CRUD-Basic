@@ -1,4 +1,4 @@
-# 📖 Laravel 11 CRUD Basic
+# 📖 Laravel 11 basic CRUD without using Database
 
 ###### ✍️แก้ไขเมื่อ : 13/05/2567
 ###### 👨‍💻ผู้จัดทำ : Adisak
